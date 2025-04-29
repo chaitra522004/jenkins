@@ -1,6 +1,5 @@
-package Demojenkins;
 
-public class Student {
+ class Student {
     public static void main(String[] args) {
         String name="Chaitra Biradar";
         int id=64;
